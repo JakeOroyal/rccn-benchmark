@@ -1,4 +1,4 @@
-= reconar-dataset - dataset of tests instances for a Reducing Collisions in Constrained Navigation Problem.
+reconar-dataset - dataset of tests instances for a Reducing Collisions in Constrained Navigation Problem.
 
 This dataset contains 14 tests instances:
 
@@ -17,7 +17,7 @@ This dataset contains 14 tests instances:
 13) 1000N-650R-75841C-ver1
 14) 2000N-1000R-91390C-ver1
 
-== Dataset introduced in:
+Dataset introduced in:
 
 Theoretical Model and Generation of a Test Instances Benchmark for a Reducing Collisions in Constrained Navigation Problem
 Josue J. Oregel and Hector J. Puga
@@ -26,7 +26,7 @@ Instituto Tecnologico de Leon
 Leon, Guanajuato, 37290, Mexico
 http://posgrado.itleon.edu.mx
 
-== Contribute
+Contribute
 
 If you want to contribute o need the generator, please contact us at:
 josue-oregel@itleon.edu.mx
