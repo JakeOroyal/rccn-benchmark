@@ -1,6 +1,6 @@
-reconar-dataset - dataset of tests instances for a Reducing Collisions in Constrained Navigation Problem.
+rccn-benchmark - dataset of test instances for Reducing Collisions in Constrained Navigation (RCCN) problems.
 
-This dataset contains 14 tests instances:
+This dataset contains 14 test instances:
 
 1)  27N-5R-5C-ver1 
 2)  27N-5R-7C-ver1
@@ -17,10 +17,8 @@ This dataset contains 14 tests instances:
 13) 1000N-650R-75841C-ver1
 14) 2000N-1000R-91390C-ver1
 
-Dataset introduced in:
-
-Theoretical Model and Generation of a Test Instances Benchmark for a Reducing Collisions in Constrained Navigation Problem
-Josue J. Oregel and Hector J. Puga
+Benchmark authors:
+Josue Oregel and Hector J. Puga
 Division de Estudios de Posgrado e Investigacion
 Instituto Tecnologico de Leon
 Leon, Guanajuato, 37290, Mexico
@@ -28,6 +26,6 @@ http://posgrado.itleon.edu.mx
 
 Contribute
 
-If you want to contribute o need the generator, please contact us at:
+If you want to contribute or you need the generator programmed in Java, please contact us at:
 josue-oregel@itleon.edu.mx
 hector.puga@itleon.edu.mx
